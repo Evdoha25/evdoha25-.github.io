@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/evdoha25-.github.io/static/css/main.c0f26a41.css",
+    "main.js": "/evdoha25-.github.io/static/js/main.8f8af759.js",
+    "index.html": "/evdoha25-.github.io/index.html",
+    "main.c0f26a41.css.map": "/evdoha25-.github.io/static/css/main.c0f26a41.css.map",
+    "main.8f8af759.js.map": "/evdoha25-.github.io/static/js/main.8f8af759.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f26a41.css",
+    "static/js/main.8f8af759.js"
+  ]
+}
